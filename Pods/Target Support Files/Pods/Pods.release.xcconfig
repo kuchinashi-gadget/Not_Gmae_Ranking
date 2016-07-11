@@ -1,0 +1,9 @@
+FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Google-Mobile-Ads-SDK/Frameworks" "$(PODS_ROOT)/Repro/Repro.embeddedframework"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK" "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds" "${PODS_ROOT}/Headers/Public/Repro" "${PODS_ROOT}/Headers/Public/Repro/Repro"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$CONFIGURATION_BUILD_DIR/Alamofire.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK" -isystem "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds" -isystem "${PODS_ROOT}/Headers/Public/Repro" -isystem "${PODS_ROOT}/Headers/Public/Repro/Repro"
+OTHER_LDFLAGS = $(inherited) -l"z" -framework "AVFoundation" -framework "Alamofire" -framework "AudioToolbox" -framework "CoreBluetooth" -framework "CoreGraphics" -framework "CoreMedia" -framework "CoreTelephony" -framework "EventKit" -framework "EventKitUI" -framework "GoogleMobileAds" -framework "MediaPlayer" -framework "MessageUI" -framework "MobileCoreServices" -framework "Repro" -framework "Security" -framework "StoreKit" -framework "SystemConfiguration" -weak_framework "AdSupport" -weak_framework "SafariServices"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_FRAMEWORK_BUILD_PATH = $(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods
+PODS_ROOT = ${SRCROOT}/Pods

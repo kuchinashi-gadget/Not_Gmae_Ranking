@@ -1,0 +1,25 @@
+総合（ゲーム以外）,All (Without Games),
+総合（ゲーム含む）,All (With Gmae),
+Newsstand,Newsstand,genre=6021
+エンターテイメント,Entertainment,genre=6016
+カタログ,Catalogs,genre=6022
+ゲーム,Games,genre=6014
+スポーツ,Sports,genre=6004
+ソーシャルネットワーキング,Social Networking,genre=6005
+ナビゲーション,Navigation,genre=6010
+ニュース,News,genre=6009
+ビジネス,Business,genre=6000
+ファイナンス,Finance,genre=6015
+フード/ドリンク,Food & Drink,genre=6023
+ブック,Books,genre=6018
+ミュージック,Music,genre=6011
+ユーティリティ,Utilties,genre=6002
+ライフスタイル,Lifestyle,genre=6012
+医学,Medical,genre=6020
+教育,Education,genre=6017
+健康/フィットネス,Health & Fitness,genre=6013
+仕事効率化,Productivity,genre=6007
+仕事/辞典/その他,Reference,genre=6006
+写真/ビデオ,Photo & Video,genre=6008
+天気,Weather,genre=6001
+旅行,Travel,genre=6003

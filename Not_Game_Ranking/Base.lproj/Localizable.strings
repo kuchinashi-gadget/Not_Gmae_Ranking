@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Not_Game_Ranking
+
+  Created by 岡野光祐 on 2016/06/28.
+  Copyright © 2016年 岡野光祐. All rights reserved.
+*/
+language="English";
+category="Category";
+category_message="Please choose a category!";
+app_syubetu="Type Of App";
+app_country_label="Country of App Store";
+app_setumei_label="Description";
+app_support_device_label="Supported Devices";
+alert_title_str="CheckApp Store";
+alert_message_str="Do you want to check this app in the App Store?";
+alert_OK_str="YES";
+alart_NG_str="NO";
+omikuji_title="Sarch APPs by Omikuji!";
+omikuji_setumei="Display recommended app in random! \n Tap the image or Shake the iPhone!";
+omikuji_sekai="Sarch APPs in the world!";

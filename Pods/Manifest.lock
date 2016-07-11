@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Google-Mobile-Ads-SDK (7.8.1)
+  - Repro (1.7.30)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Google-Mobile-Ads-SDK (~> 7.6)
+  - Repro
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Google-Mobile-Ads-SDK: 3c2a6656117989469bfe7645640aa1de024a4c6c
+  Repro: 5e3096bcff9fa38cffae58bafc579b5154ca4c4c
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Not_Game_Ranking
+
+  Created by 岡野光祐 on 2016/06/28.
+  Copyright © 2016年 岡野光祐. All rights reserved.
+*/
+language="日本語";
+category="カテゴリ";
+category_message="カテゴリを選択してください。";
+app_syubetu="Appの種別";
+app_country_label="表示する App Store の国";
+app_setumei_label="説明";
+app_support_device_label="サポートデバイス";
+alert_title_str="App Storeで確認";
+alert_message_str="App Storeでこのアプリを確認しますか？";
+alert_OK_str="確認する";
+alart_NG_str="確認しない";
+omikuji_title="おみくじでアプリを検索";
+omikuji_setumei="ランダムでオススメアプリを表示します！！\nおみくじをタップするかiPhoneを振ってください。";
+omikuji_sekai="世界中のアプリから探す";
